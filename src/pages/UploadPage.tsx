@@ -18,12 +18,6 @@ export default function UploadPage() {
   const [loading, setLoading] = useState(false);
   const [hasExistingData, setHasExistingData] = useState(false);
 
-  // Auto-redirect if data and config already exist (e.g. after refresh)
-  useEffect(() => {
-    if (globalParsedData && fieldConfig) {
-      navigate('/overview', { replace: true });
-    }
-  }, [globalParsedData, fieldConfig, navigate]);
 
   useEffect(() => {
     fetch('/data/data.csv', { method: 'HEAD' })
