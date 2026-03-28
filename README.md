@@ -1,6 +1,8 @@
-<img width="4096" height="992" alt="Gemini_Generated_Image_xn31txn31txn31tx" src="https://github.com/user-attachments/assets/e8c7dc33-caf3-40a7-b2da-f269d94ab8e6" />
 
-# Times Series Compass
+<img width="1024" height="248" alt="compressed_微信图片_20260329005459_53_2" src="https://github.com/user-attachments/assets/d03771dd-3261-4537-8d0b-768347aa4549" />
+
+# Times Series 
+Compass
 A convinient, helpful, comprehansive timeseires visulization tool
 
 ### Install
